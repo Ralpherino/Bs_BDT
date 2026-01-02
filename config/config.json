@@ -1,0 +1,7 @@
+{
+	"IN_DIR_SIG": "/eos/lhcb/user/y/yeyang/rds/ap_moreinfopid/MC/v0/truth-matched",
+	"IN_DIR_BKG": "/eos/lhcb/wg/semileptonic/RDsHad/AP/v2/ap_moreinfopid",
+	"OUT_DIR": "./output",
+	"INPUT_PLOTS": "./plots",
+	"BDT_PLOTS": "./plots"
+}
