@@ -30,5 +30,5 @@ You should expect 3 output files: Output_tmva_Ds.root, Output_tmva_3pi.root, Out
    2. BDT plot: You should expect a plots directory that contains the 3 output directories that contain the output from the classification.
 
 ** Under construction   
-   - there is buffer issues (when running TMVAClassification) to be solved   
-   - maybe better to add automatic determination of optimal cut (only for "Bs") in TMVA_input_preparation.cc
+   - Check how to impliment over general purposes not just R(Ds)
+   - Impliment over general purposes not just R(Ds)
