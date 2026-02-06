@@ -19,4 +19,13 @@ This script is to follow the analysis flow to run the preparation script for the
 This script plots the input variables selected for the TMVA.
 
 ### 7. bdt_plot.py
+
 This script is used to plot the final BDT outputs for the corresponding selections (Ouput root files + normalization channel root files)
+
+### 8. def_optcut.cc
+
+This script determines and stores the working-pint cuts for each selection (Ds, 3pi, Bs)
+
+### 9. rds_data_BDTwgt.cc
+
+This script applies the trained TMVA model to the samples and writes out a ROOT tree with the BDT response added as a new branch. 
